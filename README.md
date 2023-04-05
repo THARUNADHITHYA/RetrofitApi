@@ -23,4 +23,3 @@ This is an Android app that demonstrates the usage of Retrofit API to retrieve d
 ### App Preview
 ![preview_1](https://github.com/THARUNADHITHYA/RetrofitApi/blob/main/retrofit%20api%20data%20display.jpeg)
 ![preview_2](https://github.com/THARUNADHITHYA/RetrofitApi/blob/main/retrofit%20api%20data%20display_.jpeg)
-
